@@ -1,0 +1,9 @@
+git init 
+git clone <url>
+Tengo que estar adentro de lo que me descargo el repositorio 
+git checkout -b <name new branch> //rama mia auxiliar para no dañar la master 
+realizo los cambios 
+git status 
+git add 
+git commit -m "AJA"
+git push -u origin <name new branch>
